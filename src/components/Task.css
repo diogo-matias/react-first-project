@@ -1,0 +1,26 @@
+.container-task {
+  background-color: rgb(75, 75, 75);
+  margin: 0.5rem 0;
+  padding: 10px 15px;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.container-icons {
+  display: flex;
+  gap: 10px;
+}
+
+.apagar,
+.infos {
+  color: chartreuse;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.task-title {
+  cursor: pointer;
+}

@@ -1,11 +1,16 @@
-.container {
-  max-width: 500px;
-  margin: 30px auto;
-  overflow: auto;
-  min-height: 300px;
-  border: 2px solid chartreuse;
-  padding: 30px;
-  border-radius: 10px;
-
+body {
   color: white;
+}
+
+button {
+  padding: 10px;
+}
+
+.container-app {
+  min-height: 500px;
+  border: 2px solid chartreuse;
+  max-width: 500px;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 30px 15px;
 }

@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-add-task {
+  /* background-color: aqua; */
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.input-add-task {
+  height: 30px;
+  flex-grow: 2;
+  border-radius: 5px;
+  border: none;
+  padding: 20px 10px;
+}
+
+.button-container {
+  margin-left: 10px;
+  flex-grow: 1;
+}

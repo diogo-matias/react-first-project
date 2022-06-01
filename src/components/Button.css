@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.button {
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: chartreuse;
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.4s ease;
+}
+
+.button:hover {
+  background-color: #4444;
+  color: chartreuse;
+}
