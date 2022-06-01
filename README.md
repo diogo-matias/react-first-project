@@ -1,2 +1,2 @@
 # react-first-project
-<img src="./img/preview.png"> 
+<img src="./img/preview.PNG"> 
